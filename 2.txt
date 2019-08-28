@@ -1,1 +1,2 @@
+I have changed 2.txt-- a line is added
 This is my file 2.txt
